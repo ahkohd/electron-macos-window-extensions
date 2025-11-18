@@ -1,0 +1,7 @@
+procs:
+  check:
+    cmd: ["bacon"]
+    stop: SIGINT
+  clippy:
+    cmd: ["bacon", "clippy"]
+    stop: SIGINT
