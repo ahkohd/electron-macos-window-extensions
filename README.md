@@ -32,7 +32,7 @@ observer.stop()
 ```js
 import { showAndMakeKey, orderOut, nonActivatingPanel, setAnimationBehavior, deactivateApp } from 'electron-macos-window-extensions'
 
-// Display window and make it the key window (receives keyboard events).
+// Display window and make it the key window (receives keyboard events)
 showAndMakeKey(window.getNativeWindowHandle())
 
 // Hide window (resigns key)
