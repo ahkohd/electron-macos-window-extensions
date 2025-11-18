@@ -1,6 +1,6 @@
 {
   "name": "electron-macos-window-extensions",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "macOS window management extensions for Electron applications",
   "main": "index.js",
   "repository": {
